@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Zxch-Chen, studying CS at Harvard.
-- 👀 I’m interested in startups, web3, agents
-- 💞️ I’m looking to collaborate on any of the above things^
-- 📫 Reach out at zach [dot] chen101@gmail.com
+Hi. I'm Zach. I'm a sophomore at Harvard studying CS. My interests are broad but in applied AI. Reach out to zach.chen101@gmail.com for collaborations.
   
 
 <!---
